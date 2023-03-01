@@ -212,6 +212,12 @@ button {
 	border: none;
 	margin-top: 1em;
 }
+button:hover {
+	background-color: linear-gradient(
+		17deg,
+		rgba(120, 87, 255, 1) 0%,
+		rgba(46, 43, 233, 1) 75%);
+		}
 .padding-setting {
 	padding-left: 1em;
 	padding-right: 1em;
